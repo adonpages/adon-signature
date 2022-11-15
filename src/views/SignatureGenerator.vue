@@ -380,7 +380,6 @@ export default {
   padding: 1rem;
   background-color: var(--light);
   border-radius: var(--corner-radius);
-  /* box-shadow: var(--shadow); */
 }
 .user-input {
   width: 100%;
